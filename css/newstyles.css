@@ -1,0 +1,21 @@
+body {
+  background-color: #B5D3E7;
+}
+h1  {
+  color: #49c431;
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+h2 {
+  color:black;
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+p {
+  text-align: justify;
+  font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
